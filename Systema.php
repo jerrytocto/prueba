@@ -10,6 +10,7 @@
     print_r("<pre>");
     print_r($listUsers);
     Print("Esto es para el git");
+    print("Esto se tiene que poder"); 
     print_r("</pre>");
     
 ?>
